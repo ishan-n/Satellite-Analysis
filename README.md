@@ -1,4 +1,4 @@
-# Satellite-Analysis
+# Satellite analysis deep dive
 
 Project definition: Satellites are now reaching a stage of commercialize usage, with 5540 satellite launches and 36 satellite attributes being recorded in the dataset, the project will be focused on discovering the similarities between satellites, finding patterns and determining the satellite trends. Ultimately provide a summary guide to map out the current satellites situation and supply insights about the satellite distribution.
 
